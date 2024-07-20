@@ -1,0 +1,3 @@
+I followed the tuorial in the other video, but basically I just wanted some simple fluid flow animation with curl included, should be ran from terminal rather than through jupyter as it looks better through cli
+
+I just wanted to do some physics stuff and this only exist for me to justify submitting a .py instead of the listed ones
